@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
-I'm a passionate **developer** skilled in building powerful, scalable applications. My journey spans across multiple technologies, with a keen interest in both backend and frontend frameworks.
+I'm a passionate **developer** and cyber secuirty engineer graduated at bahirdar university skilled in building powerful, scalable applications. My journey spans across multiple technologies, with a keen interest in both backend and frontend frameworks.
 
 - 🌟 **Interests:** Cyber-range & note keeping applications, student management systems
 - ✝️ **Personal Inspiration:** Jesus
